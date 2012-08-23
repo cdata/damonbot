@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/cdata/damonbot.png)](http://travis-ci.org/cdata/damonbot)
 # Hubot
 
 This is a version of GitHub's Campfire bot, hubot. He's pretty cool.
